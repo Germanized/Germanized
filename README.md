@@ -38,4 +38,4 @@ If you find my projects valuable and wish to contribute to their development:
 - **Resume:** [pornhub.com](https://pornhub.com) 
 ---
 
-Feel free to explore my projects and connect with me across various platforms. Let's collaborate and innovate together! 🚀
+click on my resume
