@@ -2,11 +2,7 @@
 
 ## About Me ℹ️
 
-Greetings! I'm Germanized, also known as Pronhubstar, hailing from the vibrant landscapes of Deutschland and currently navigating the digital realm from my cozy workspace, spanning from Germany to the States.
-
-I'm deeply passionate about crafting Social Media Tools (bots) designed to optimize server functionalities and amplify engagement metrics. While I'm diligently honing my skills in C#, I boast proficiency in C++. I'm constantly on the lookout for stimulating coding projects that not only showcase my prowess but also leave a lasting impact.
-
-Python? It's my forte, where I thrive and excel in leveraging its versatility to create innovative solutions. Feel free to reach out to me via email at Darthsaint008@gmail.com to embark on collaborative ventures with a coder who's committed to pushing boundaries.
+um die email me at darthsaint008@gmail.com
 
 ---
 
