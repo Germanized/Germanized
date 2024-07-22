@@ -1,5 +1,5 @@
 # Germanized's Profile 👋
-
+# I Crack shit then Dump Source Code onto forums or expose them 
 ## About Me ℹ️
 
 um die email me at darthsaint008@gmail.com
