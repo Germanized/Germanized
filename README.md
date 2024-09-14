@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Germanized</h1>
-<h3 align="center">frontend/backend developer from Nunya</h3>
+<h3 align="center">frontend/backend developer from Nunya socials are guns.lol/germanized</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=germanized&label=Profile%20views&color=0e75b6&style=flat" alt="germanized" /> </p>
 
