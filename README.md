@@ -1,41 +1,75 @@
-# Germanized's Profile 👋
-# I Crack shit then Dump Source Code onto forums or expose them 
-## About Me ℹ️
+<h2 align="left">Yo My name is Germanized Dumb MF</h2>
 
-um die email me at darthsaint008@gmail.com
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=germanized&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=germanized&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## Contact Information 📧
+###
 
-- **Email:** [Darthsaint008@gmail.com](mailto:Darthsaint008@gmail.com)
-- **GitHub:** [github.com/Germanized](https://github.com/Germanized)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/No)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
----
+###
 
-## Support My Work 💰
+<img align="right" height="150" src="https://i.pinimg.com/originals/15/62/c0/1562c0748bfe0900f1b2b1482fb16fba.gif"  />
 
-If you find my projects valuable and wish to contribute to their development:
+###
 
-- **Donate via Cash App:** [cash.app/$ihateschooldays](https://cash.app/$ihateschooldays)
+<div align="left">
+  <a href="https://x.com/NotGermanized" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.com/users/772917043904118794" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/@niggafart" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/testicularniggas/?hl=en" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://t.me/zukerburger" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="darthsaint008@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
----
+###
 
-## Social Media Links 🌐
+<br clear="both">
 
-- **Spotify:** [Open Spotify Profile](https://open.spotify.com/user/d5lbocxozluuakkyiicitnbh7?si=b755892f25244348&nd=1&dlsi=2d110732851c4087)
-- **Instagram:** [instagram.com/testicularniggas](https://www.instagram.com/testicularniggas)
-- **TikTok:** [tiktok.com/@pronhubstar](https://www.tiktok.com/@pronhubstar)
-- **Roblox:** [roblox.com/users/2699428362/profile](https://www.roblox.com/users/2699428362/profile)
-- **Telegram:** [t.me/zukerburger](https://t.me/zukerburger)
+<img src="https://raw.githubusercontent.com/germanized/germanized/output/snake.svg" alt="Snake animation" />
 
----
+###
 
-## Repository & Resume 📁
+<div align="center">
+  <img src="https://profile-counter.glitch.me/germanized/count.svg?"  />
+</div>
 
-- **GitHub Repository:** [github.com/germanized/germanized](https://github.com/germanized/germanized)
-- **Resume:** [pornhub.com](https://pornhub.com) 
----
+###
 
-click on my resume
+<div align="center">
+  <a href="https://open.spotify.com/user/d5lbocxozluuakkyiicitnbh7">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=d5lbocxozluuakkyiicitnbh7&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
