@@ -47,7 +47,7 @@
 ### 🏆 Trophies & Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=germanized&theme=dark&hide_border=true&margin-w=15" alt="Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover" alt="Trophies">
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=germanized&theme=dark&show_icons=true&hide_border=true" alt="Stats" />
   <br>
