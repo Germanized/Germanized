@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Germanized/Germanized/main/assets/apple-gradient-demo.png" alt="Apple Gradient" width="80%" style="border-radius: 24px;" />
+  <img src="https://github.com/Germanized/Germanized/blob/main/germanizedbanner.png?raw=true" width="80%" style="border-radius: 24px;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Germanized</h1>
