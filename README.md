@@ -11,7 +11,7 @@
 ---
 
 ### 🙋‍♂️ About Me
-- 🔭 Working on MODELL is my Own UI Free Based Code Generation Model. (BETA TESTING So far Better than Claude 4 UI Generation) 
+- 🔭 Working on viewbot (again)(again) 
 - 🌱 Learning **AI ML**
 - 💬 Ask me about <b>anything coding-related—I'll help!</b>
 - ⚡ Fun fact: <i>I'm lowkey stupid</i>
