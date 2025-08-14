@@ -39,7 +39,7 @@
   <a href="https://www.youtube.com/c/niggafart"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://discord.gg/yrr3QERx9d"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
-<p>Email: <code>germanizedgithub@gmail.com</code></p>
+<p>Email: <code>germanized@germanized.org</code></p>
 
 ---
 
