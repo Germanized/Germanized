@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Frontend / Backend Developer from Germany</b><br>
-  <a href="https://pronhubstar.lol">🌐 pronhubstar.lol</a> &nbsp;|&nbsp;
+  <a href="https://Germanized.org">🌐 pronhubstar.lol</a> &nbsp;|&nbsp;
   <a href="https://guns.lol/f4g">🔗 guns.lol/f4g</a>
 </p>
 
@@ -34,12 +34,8 @@
 
 ### 🌎 Connect
 <p>
-  <a href="https://twitter.com/notgermanized"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://instagram.com/stopjackingmyjacksauce"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/c/niggafart"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://discord.gg/yrr3QERx9d"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.com/users/772917043904118794"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
-<p>Email: <code>germanized@germanized.org</code></p>
 
 ---
 
