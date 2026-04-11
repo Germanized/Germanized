@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Frontend / Backend Developer from Germany</b><br>
+  <b>Frontend / Backend Developer in Germany</b><br>
   <a href="https://Germanized.org">🌐 https://Germanized.org</a> &nbsp;|&nbsp;
   <a href="https://guns.lol/f4g">🔗 guns.lol/f4g</a>
 </p>
