@@ -11,11 +11,7 @@
 ---
 
 ### 🙋‍♂️ About Me
-- 🔭 Working on viewbot (again)(again) 
-- 🌱 Learning **AI ML**
-- 💬 Ask me about <b>anything coding-related—I'll help!</b>
-- ⚡ Fun fact: <i>I'm lowkey stupid</i>
-
+Nun Abt Me
 ---
 
 ### 🛠️ Languages & Tools
