@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Frontend / Backend Developer from Germany</b><br>
-  <a href="https://Germanized.org">🌐 pronhubstar.lol</a> &nbsp;|&nbsp;
+  <a href="https://Germanized.org">🌐 https://Germanized.org</a> &nbsp;|&nbsp;
   <a href="https://guns.lol/f4g">🔗 guns.lol/f4g</a>
 </p>
 
