@@ -12,6 +12,7 @@
 
 ### 🙋‍♂️ About Me
 Nun Abt Me
+<a href="https://Germanized.org">Support</a>
 ---
 
 ### 🛠️ Languages & Tools
